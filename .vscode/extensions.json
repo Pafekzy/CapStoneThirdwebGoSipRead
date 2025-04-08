@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "JuanBlanco.solidity",
+      "bradlc.vscode-tailwindcss",
+      "eamodio.gitlens"
+    ]
+  }
