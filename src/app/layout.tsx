@@ -14,5 +14,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </ThirdwebProvider>
       </body>
     </html>
+
   );
 }
