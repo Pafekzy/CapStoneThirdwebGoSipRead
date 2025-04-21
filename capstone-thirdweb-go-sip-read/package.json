@@ -1,5 +1,4 @@
 {
-  "name": "capstone-thirdweb-go-sip-read",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +8,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^3.16.5",
+    "@thirdweb-dev/sdk": "^3.10.67",
     "capstone-thirdweb-go-sip-read": "file:",
+    "ethers": "^5.8.0",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
