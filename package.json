@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@thirdweb-dev/react": "^4.9.4",
+    "capstonethirdwebgosipread": "file:",
     "ethers": "^6.13.5",
     "thirdweb": "^5.95.2"
   }
