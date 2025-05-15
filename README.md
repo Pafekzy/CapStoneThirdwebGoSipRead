@@ -1,6 +1,6 @@
 # 🥂 CapStoneThirdwebGoSipRead
 
-**CapStoneThirdwebGoSipRead** is a Web3-enabled application developed as a capstone project integrating **Thirdweb SDK**, **Smart Contracts**, and a seamless user interface to explore decentralized solutions in a social context. The project is centered on empowering users to **sip, share, and read** digital content on-chain while leveraging blockchain transparency and utility.
+**CapStoneThirdwebGoSipRead** is a Web3-enabled application developed as a capstone project integrating **Thirdweb SDK**, **Smart Contracts**, and a seamless user interface to explore decentralized solutions in a social context. The project is centered on empowering users to **sip, share, and read😋** digital content on-chain while leveraging blockchain transparency and utility.
 
 ---
 
@@ -54,3 +54,4 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
